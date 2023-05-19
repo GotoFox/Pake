@@ -2,7 +2,7 @@
   "windows": [
     {
       "url": "https://client.la/",
-      "transparent": true,
+      "transparent": false,
       "fullscreen": false,
       "width": 1200,
       "height": 750,
